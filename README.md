@@ -6,6 +6,10 @@ TypeScript, Vite, and Tailwind CSS.
 It opens as a small frameless desktop window and keeps tasks locally on the
 user's computer with `localStorage`.
 
+## Show
+
+![image-20260616124448729](C:\Users\QQLL5\AppData\Roaming\Typora\typora-user-images\image-20260616124448729.png)![image-20260616124501502](C:\Users\QQLL5\AppData\Roaming\Typora\typora-user-images\image-20260616124501502.png)
+
 ## Features
 
 - Add, edit, delete, complete, and reorder tasks
