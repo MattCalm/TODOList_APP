@@ -8,7 +8,9 @@ user's computer with `localStorage`.
 
 ## Show
 
-![image-20260616124448729](C:\Users\QQLL5\AppData\Roaming\Typora\typora-user-images\image-20260616124448729.png)![image-20260616124501502](C:\Users\QQLL5\AppData\Roaming\Typora\typora-user-images\image-20260616124501502.png)
+![MoonTodo screenshot](screenshots/1.png)
+
+![MoonTodo screenshot](screenshots/2.png)
 
 ## Features
 
